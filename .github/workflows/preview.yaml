@@ -1,4 +1,4 @@
-name: deploy website
+name: Generate Preview Deployment
 on: [pull_request]
 env:
   VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
