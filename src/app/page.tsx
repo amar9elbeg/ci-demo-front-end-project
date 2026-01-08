@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>Preview Action MANUALLY</div>;
+  return <div>Fixed home page</div>;
 }
